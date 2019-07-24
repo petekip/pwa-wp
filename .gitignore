@@ -1,7 +1,7 @@
-/build/
-/node_modules
-/vendor
-/phpcs.xml
-/.phpcs.xml
-*.zip
-/wp-includes/js/workbox/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
